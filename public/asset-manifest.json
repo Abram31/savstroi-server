@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.afda13f3.css",
+    "main.js": "/static/js/main.2f9914ad.js",
+    "static/media/Welcom_background.png": "/static/media/Welcom_background.9059bd296930f5137c99.png",
+    "static/media/background_services.png": "/static/media/background_services.e9a5f83c88731c10fa81.png",
+    "static/media/Literature-Decor.ttf": "/static/media/Literature-Decor.3e683835fed624c02b43.ttf",
+    "static/media/phone.svg": "/static/media/phone.b2c27b39e548d52ef6f4.svg",
+    "static/media/map.svg": "/static/media/map.c9fb30e564cbe0c23983.svg",
+    "static/media/message.svg": "/static/media/message.f9aca4e071074b90e2e5.svg",
+    "index.html": "/index.html",
+    "static/media/bird.svg": "/static/media/bird.718d64b469e7e646a444.svg",
+    "static/media/burger.svg": "/static/media/burger.1f74c329d8de1bca9fa8.svg",
+    "main.afda13f3.css.map": "/static/css/main.afda13f3.css.map",
+    "main.2f9914ad.js.map": "/static/js/main.2f9914ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afda13f3.css",
+    "static/js/main.2f9914ad.js"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "jobs": [
+    {
+      "title": "tytuyt111111",
+      "responsibilities": {
+        "name": "Обязанности",
+        "text": "ytyuuiyui334"
+      },
+      "requirements": {
+        "name": "Опыт",
+        "text": "uyiuyi1111"
+      },
+      "conditions": {
+        "name": "Условия работы",
+        "text": "uyiyiuy"
+      },
+      "wage": {
+        "name": "Заработная плата",
+        "text": "567576"
+      },
+      "contactPerson": {
+        "name": "Контактное лицо для связи",
+        "contactPerson": "uiyiyiuy",
+        "phones": [
+          "78678",
+          "6786"
+        ]
+      },
+      "id": 1
+    },
+    {
+      "title": "2",
+      "responsibilities": {
+        "name": "Обязанности",
+        "text": "jlkjlkj"
+      },
+      "requirements": {
+        "name": "Опыт",
+        "text": "111111111111111111111111111111111111111"
+      },
+      "conditions": {
+        "name": "Условия работы",
+        "text": "lkj"
+      },
+      "wage": {
+        "name": "Заработная плата",
+        "text": "lkj"
+      },
+      "contactPerson": {
+        "name": "Контактное лицо для связи",
+        "contactPerson": "k",
+        "phones": [
+          "jlk",
+          "jl"
+        ]
+      },
+      "id": 2
+    }
+  ]
+}
