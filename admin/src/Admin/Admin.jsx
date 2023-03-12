@@ -22,9 +22,9 @@ export const AdminComp = () => {
     <Admin 
     // history={history} 
     authProvider={authProvider} dataProvider={
-      // restProvider('http://server.savstroi.vh87.hosterby.com')
+      restProvider('https://server.savstroi.vh87.hosterby.com')
 
-      restProvider('http://localhost:5000')
+      // restProvider('http://localhost:5000')
 
       // restProvider('http://server.savstroi.vh87.hosterby.com/data')
 
