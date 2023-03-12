@@ -1,11 +1,7 @@
-RewriteEngine on
-RewriteOptions inherit
-RewriteCond %{HTTP_HOST} ^savstroi\.vh87\.hosterby\.com$ [OR]
-RewriteCond %{HTTP_HOST} ^www\.savstroi\.vh87\.hosterby\.com$
-RewriteRule ^/?$ "https\:\/\/www\.savstroi\.by\/" [R=301,L]
-RewriteCond %{HTTPS} off
-RewriteCond %{HTTP:X-Forwarded-SSL} !on
-RewriteCond %{HTTP_HOST} ^savstroi\.by$ [OR]
-RewriteCond %{HTTP_HOST} ^www\.savstroi\.by$
-RewriteRule ^/?$ "https\:\/\/www\.savstroi\.by\/" [R=301,L]
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.html$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.html [L]
 
